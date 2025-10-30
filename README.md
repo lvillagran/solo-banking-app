@@ -4,8 +4,8 @@ Una aplicación bancaria básica fullstack desarrollada como parte del Solo Proj
 
 ## 🚀 Tecnologías
 - **Frontend**: React + Vite
-- **Backend**: Node.js + Express
-- **Base de datos**: PostgreSQL (SQL) o MongoDB (NoSQL)
+- **Backend**: Sprint Boot
+- **Base de datos**: Mongo BD
 
 ## ⚙️ Funcionalidades
 - Registro e inicio de sesión de usuarios (autenticación con JWT).
