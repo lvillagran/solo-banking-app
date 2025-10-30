@@ -1,6 +1,6 @@
-# Solo Banking App 🏦
+# SOLO | Banking App 🏦
 
-Una aplicación bancaria básica fullstack desarrollada como parte del Solo Project (Nivel 3 Fullstack - Chingu).
+Una aplicación bancaria básica
 
 ## 🚀 Tecnologías
 - **Frontend**: React + Vite
